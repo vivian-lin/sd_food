@@ -1,0 +1,57 @@
+body {
+  font-family: 'Quicksand', sans-serif;
+  background-color: white;
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+  margin: 90px;
+  margin-top: 10px;
+  margin-bottom: 30px;
+  font-size: 300%;
+  color: white;
+  text-shadow: 3px 3px #000000;
+  background-image: url("http://helengraceventurathompson.com/blog/historyoffoodphotography/wp-content/uploads/2013/11/meals-interrupted-davide-luciano-claudia-ficca-al-dente1.jpg");
+  height: 240px;
+  padding-top: 150px;
+  opacity: 0.8;
+}
+
+nav {
+  text-align: center;
+  margin-top: 90px;
+  margin-bottom: 30px;
+}
+
+nav > a {
+  padding-left: 12px;
+  color: black;
+  text-decoration: none;
+}
+
+nav > a:hover {
+  text-decoration: underline;
+  font-size: 120%;
+}
+
+.image {
+  height: 300px;
+  padding-left: 30px;
+}
+
+.paragraphs {
+  text-align: right;
+}
+
+.casual {
+  display: flex;
+  justify-content: space-around;
+}
+
+.night {
+}
+
+.all {
+
+}
